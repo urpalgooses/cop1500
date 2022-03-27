@@ -39,7 +39,6 @@ def Sprint1():
     print(favorite_team, "beat the Tenessee Titans by " + bengals_score + " points")
 
 # Sprint 2
-
 def square(whole_num):
     whole_num * whole_num
 
@@ -117,10 +116,6 @@ def Sprint2():
     #func with parameters
     
     print(number_x, "squared =", square(number_x))
-    
-    
-    
-        
 
 # Cool Stuff
 def FunStuff():
