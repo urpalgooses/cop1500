@@ -1,7 +1,6 @@
 """
 COMP 1500 Integration Project | Football tools
 """
-__author__ = "Ethan Hammond"
 
 
 # Sprint #1 Requirements
